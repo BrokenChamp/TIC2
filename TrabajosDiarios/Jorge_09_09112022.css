@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+    height:2000px;
+}
+h1{
+    font-size:x-large;
+    text-align: center;
+}
+header{
+    background-image: linear-gradient(to right,blue, grey,blue);
+    padding: 50px;
+    border: 2px solid;
+    border-radius:10px;
+}
+footer{
+    position:fixed;
+    background-image: linear-gradient(to right,blue, grey,blue);
+    bottom: 0px;
+    width:100%;
+}
+section{
+    float:left;
+    width:30%;
+    text-align:center;
+    margin-top: 15px;
+    margin-left:20px;
+    margin-right:20px;
+}
+    

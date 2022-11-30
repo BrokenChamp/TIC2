@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+}
+@font-face {
+    font-family: "TextoJorge";
+    src: url(../FUENTES/artificial_intelligence/ArtificialIntelligence_PERSONAL_USE_ONLY.otf);
+}
+header{
+    background-color: brown;
+    color:white;
+    padding: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    
+
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    color:white;
+    padding: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-shadow: 5px 5px 1px black;
+    box-shadow: 5px -5px 2px yellow;
+}
+img{
+    width:50px;
+}
+h1{
+    text-shadow: 5px 5px 1px black;
+    box-shadow: 5px -5px 2px yellow;
+}
+section{
+    box-shadow: 5px -5px 2px yellow;
+    text-shadow: 3px 3px 1px grey;
+    margin: 20px 10px 20px 10px;
+    font-family: TextoJorge;
+}
+main{
+    display:flex;
+}

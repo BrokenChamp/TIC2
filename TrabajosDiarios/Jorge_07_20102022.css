@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    
+}
+h1{
+    text-align: center;
+}
+section{
+    width: 70%;
+    margin: auto;
+    border: dashed;
+    padding: 15px;
+}
+ol > ol {
+    list-style-type:georgian ;
+}
+.listadesordenada{
+    background-color: bisque;
+}
+.listadesordenada > ul > li {
+    list-style-type: none;    
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-position-x: -7px;
+    padding: 0px 0px 0px 25px;
+    margin-bottom: 7px;
+}
+
+.CPU{
+    background-image: url(../Imágenes/733px-Intel_80486DX2_bottom-1-513x420.jpg);
+}
+.PLACABASE{
+    background-image: url(../Imágenes/Placa\ base.jpg)
+}
+.RAM{
+    background-image: url(../Imágenes/RAM.jpg)
+}
+.MONITOR{
+    background-image: url(../Imágenes/Monitor-1-672x420.jpg);
+}
+.TECLADO{
+    background-image: url(../Imágenes/Teclado-1-672x420.jpg)
+}
+.RATÓN{
+    background-image: url(../Imágenes/RATÓN.jpg)
+}
+.TARJETAGRÁFICA{
+    background-image: url(../Imágenes/tarjeta-de-video-1-672x420.jpg)
+}
+.DISCODURO{
+    background-image: url(../Imágenes/DISCODURO.jpg)
+}
+.FUENTEAL{
+    background-image: url(../Imágenes/Fuente-de-alimentacion-1-672x420.jpg)
+}
+.PERIFÉRICOS{
+    background-image: url(../Imágenes/impresora-1-672x420.jpg)
+}
+.listaordenada{
+    background-color: cornflowerblue;
+}
+.listadefinición{
+    background-color: darkgreen;
+}
